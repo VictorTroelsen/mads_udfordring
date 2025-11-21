@@ -1,0 +1,24 @@
+{
+  "name": "mads_udfordring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorTroelsen/mads_udfordring.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorTroelsen/mads_udfordring/issues"
+  },
+  "homepage": "https://github.com/VictorTroelsen/mads_udfordring#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
